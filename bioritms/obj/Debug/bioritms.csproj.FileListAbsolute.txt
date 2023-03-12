@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\csharp\uzd1\bioritms\bioritms\bin\Debug\bioritms.exe.config
+C:\Users\User\Desktop\csharp\uzd1\bioritms\bioritms\bin\Debug\bioritms.exe
+C:\Users\User\Desktop\csharp\uzd1\bioritms\bioritms\bin\Debug\bioritms.pdb
+C:\Users\User\Desktop\csharp\uzd1\bioritms\bioritms\obj\Debug\bioritms.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\csharp\uzd1\bioritms\bioritms\obj\Debug\bioritms.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\csharp\uzd1\bioritms\bioritms\obj\Debug\bioritms.Form1.resources
+C:\Users\User\Desktop\csharp\uzd1\bioritms\bioritms\obj\Debug\bioritms.Properties.Resources.resources
+C:\Users\User\Desktop\csharp\uzd1\bioritms\bioritms\obj\Debug\bioritms.csproj.GenerateResource.cache
+C:\Users\User\Desktop\csharp\uzd1\bioritms\bioritms\obj\Debug\bioritms.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\csharp\uzd1\bioritms\bioritms\obj\Debug\bioritms.exe
+C:\Users\User\Desktop\csharp\uzd1\bioritms\bioritms\obj\Debug\bioritms.pdb
